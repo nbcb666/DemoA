@@ -53,6 +53,7 @@ public class login {
 //		String strNum = element
 //		//拆分，得到15 数值
 //		
+	//修改的内容 验证是否会上传
 	//}
 	
 
